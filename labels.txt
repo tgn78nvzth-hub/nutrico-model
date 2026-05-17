@@ -1,1 +1,10 @@
-# Labels file
+apple
+banana
+orange
+rice
+bread
+egg
+tomato
+potato
+carrot
+milk
